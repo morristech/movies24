@@ -12,3 +12,7 @@ Showcase application for interviews.
 | [Redux](https://nodejs.org/) | Predictable state container for JavaScript apps.  |
 | [Redux Thunk](https://github.com/gaearon/redux-thunk) | Thunk middleware for Redux | 
 | [ESLint](http://eslint.org/) | The pluggable linting utility for JavaScript and JSX |
+| [Axios](https://github.com/axios/axios) | Promise based HTTP client. |
+| [Lodash](https://lodash.com) | A utility library delivering modularity, performance & extras.|
+| [Moment](https://momentjs.com/) | A library for Parse, validate, manipulate, and display dates and times.|
+| [Numeral](http://numeraljs.com) | A library for formatting and manipulating numbers.|
